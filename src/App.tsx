@@ -1,12 +1,11 @@
-import PureComponent from './pages/pure-component'
+import WhatAreForwardRefs from './pages/apps/what-are-forward-refs';
 
 function App() {
-
   return (
     <>
-      <PureComponent />
+      <WhatAreForwardRefs />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

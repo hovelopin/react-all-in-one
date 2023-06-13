@@ -29,4 +29,5 @@ React는 이벤트를 처리하기 위해 바닐라 자바스크립트와 달리
 원본 : https://github.com/sudheerj/reactjs-interview-questions#what-are-synthetic-events-in-react
 
 공식문서 : https://ko.legacy.reactjs.org/docs/events.html
+
 참고 블로그 : https://medium.com/crossplatformkorea/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-06-%ED%95%A9%EC%84%B1-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%99%80-event-pooling-6b4a0801c9b9
